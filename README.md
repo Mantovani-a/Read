@@ -10,7 +10,6 @@
    </div>
  <hr>
  <div>
-  
    <img height='40em' src='https://cdn.worldvectorlogo.com/logos/c--4.svg'>
    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg'>
    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg'>
