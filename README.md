@@ -6,7 +6,7 @@
    <li> 16 years old
    <li> Brazil
    <li> Minas Gerais
-   <li> Photoshop/Paint Master 
+   <li> Photoshop/Paint.net user 
    </div>
  
  <div>
