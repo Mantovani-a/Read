@@ -7,7 +7,7 @@
    <li> Brazil
    <li> Minas Gerais
    </div>
-   
+ # Somethings that i know how to work with  
  <div>
    <img height='40em' src='https://cdn.worldvectorlogo.com/logos/c--4.svg'>
    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg'>
