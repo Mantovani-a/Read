@@ -8,6 +8,6 @@
    </div>
    
  <div>
-   <img height='50em' src='https://worldvectorlogo.com/pt/logo/c--4'>
+   <img height='50em' src='https://cdn.worldvectorlogo.com/logos/c#.svg'>
    
    
