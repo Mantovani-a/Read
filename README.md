@@ -6,8 +6,9 @@
    <li> 16 years old
    <li> Brazil
    <li> Minas Gerais
+   <li> Photoshop/Paint Master 
    </div>
- # Somethings that i know how to work with  
+ 
  <div>
    <img height='40em' src='https://cdn.worldvectorlogo.com/logos/c--4.svg'>
    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg'>
